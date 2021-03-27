@@ -16,8 +16,11 @@ Only the first attribute added is being considered.
 For the attributes see the list below.
 
 ### icons 
-
-![Presentation](presentation.png)
+```html
+<docure-icon user></docure-icon>
+<docure-icon login></docure-icon>
+<docure-icon logout></docure-icon>
+```
 
 ### source
 [Flaticon uicons](https://www.flaticon.com/uicons)
